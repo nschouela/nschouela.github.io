@@ -1,0 +1,166 @@
+- 
+ Research – Noah Schouela
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ Skip to content
+
+ Noah Schouela
+
+ Menu +
+ ×
+ expanded
+ collapsed
+
+- Research
+
+- CV
+
+### Research
+
+### Dissertation
+
+### Essays on Fragmented Urban Government and Democracy in Latin America
+
+My dissertation explores how decentralization and democratization shape the local politics of Latin American cities. It consists of three papers that investigate political barriers to democratic representation and equitable governance for urban residents segregated by socioeconomic class:
+
+### Fragmented Latin American Urban Democracy (FLAUD): Measuring and Theorizing Regionalism in Latin America’s Metropolises
+
+Abstract
+Contemporaneous waves of democratization and decentralization in Latin America have divided residents of large metropolitan areas into numerous politico-administrative districts in both federal and unitary countries. While there is much debate about the effects of decentralization on representation in cities, two questions—one descriptive and one conceptual—have yet to be answered: how fragmented are cities in Latin America? And what exactly is being fragmented when new districts are created, or old ones are divided? This paper introduces the Fragmented Latin American Urban Democracy (FLAUD) dataset, which measures the degree and nature of urban fragmentation in over 1,000 cities in the region. Coalescing data on and coding all major administrative and political districts that intersect each metropolitan area, FLAUD uses micro-level spatial data on global population density to generate novel estimates of urban administrative fragmentation, weighted by the relative proportion of residents in each urban district. Using these estimates as a benchmark, FLAUD proposes two derivative dimensions of urban fragmentation central to the study of democracy and governance in cities. Electoral fragmentation characterizes whether the constituents of each district used in legislative and subnational elections are predominantly urban or rural, facilitating the study of potential coalitional dynamics that animate urban politics and the representation of urban voters in different cities and across countries. Sectoral fragmentation, by contrast, categorizes the core policy competencies allocated to representatives in each tier of subnational government to identify which policy sectors are affected by fragmentation across and within tiers. The descriptive statistics from the resulting dataset alone help to identify cities in which coherent urban policy may be impeded by excessive or insufficient metropolitan decentralization, opening several new channels for future research. To demonstrate potential applications of FLAUD, the paper estimates the relationship between urban fragmentation and both the spatial distribution of amenity access within cities and reported satisfaction with local governance and service provision by social class.
+
+### Class-Based Voting and Local Election Competition in Fragmented Latin American Cities
+
+Abstract
+Cities have emerged as critical venues for democratic contestation and representation as countries rapidly urbanize and political authority and resources are increasingly channeled to elected subnational governments. Recent research finds that cities’ institutional frameworks influence their capacity to address persistent inequality among urban residents, which is spatialized in the form of class-based segregation. While fragmented metropolitan areas, in particular, are believed to facilitate effective representation of constituents at the local level, few studies have explored how electoral dynamics operative at the scale of the city moderate the quality of local democracy enjoyed by different social classes within cities over time. This paper considers how class-based partisan attachments formed in higher-level elections lead parties biased in favor of relatively rich or poor voters to dominate lower-level elections in class-segregated urban districts. Such dynamics systematically alter the nature and size of mayors’ winning coalitions among divided urban electorates. Drawing on electoral and demographic data from Buenos Aires, Santiago, Mexico City, and Lima, I estimate whether class-based preferences appear to inform voting behavior in city-wide elections over the last two decades and whether these trends, in turn, influence the electoral dynamics in the various urban districts that fragment each city. I generate city-level estimates of the degree to which voters from different social classes are exposed to local electoral contestation and a district-level typology of the mandates with which mayors are elected, a function of their support base, political ties, and margin of victory. Apart from highlighting significant variation in the functioning of urban democracy across major Latin American cities, the analysis illustrates why urban fragmentation and class-based voting are no guarantee of effective representation among segregated urban residents. Indeed, their co-occurrence can inadvertently weaken the incentives among elected officials to govern accountably and equitably.
+
+### Nested Urban Democracy: Balancing Partisan and Candidate Information in Lima, Peru
+
+Abstract
+The tendency for parties to perform similarly in higher- and lower-level elections—i.e., high party localization—can generate nested advantages for candidates affiliated with dominant up-ballot parties in local districts. While voters may use party labels as a heuristic to guide their vote choice in local elections because they hold genuine partisan preferences, party localization may also materialize where voters lack alternative information about local candidates. Under such conditions, candidates in lower-level elections affiliated with dominant parties may ride party coattails to victory even if voters know little about them; large, nested advantages may even crowd out the election of stronger candidates about whom voters hold apparent preferences. This paper turns to municipal elections in Lima, Peru as an instructive case where robust party localization exists between provincial and district elections even though parties are fragile, personalistic, and transient. Across two decades of municipal elections, I find that provincial voting patterns, which are dynamically class-based and candidate-centric, constitute strong baseline predictions for party performance in Lima’s 42 autonomous districts. Voters deviate from this baseline when they have independent, reliable information on the quality of mayoral candidates in the form of past political experience. Yet district candidates affiliated with especially dominant provincial parties often ride their coattails to victory, even if they dramatically underperform their provincial counterparts. Popular candidates that overperform their provincial coattails are less likely to get elected at the district level when their competitors enter the race with large, often unjustifiable, electoral advantages associated with voters casting straight-ticket ballots.
+
+### Journal Articles
+
+### Criminal Governance in Latin America: Prevalence and Correlates
+
+With Andres D. Uribe, Benjamin Lessing, and Elayne Stecher, Perspectives on Politics (2025).
+
+Abstract
+In communities throughout Latin America, criminal organizations provide basic order and security. While multidisciplinary research on criminal governance (CG) has illuminated its dynamics in hundreds of site-specific studies, its extent remains understudied. We exploit novel, nationally representative survey data, validated against a compendium of qualitative sources, to estimate CG prevalence in 18 countries, and explore its correlates at multiple levels. Overall, 14% of respondents reported that local criminal groups provide order and/or reduce crime, corresponding to some 77–101 million Latin Americans experiencing CG. Counterintuitively, CG is positively correlated with both respondents’ perceptions of state governance quality and objective measures of local state presence. These descriptive results are consistent with multiple causal pathways, including case-specific findings that state presence—rather than absence—drives criminal governance. We offer suggestions for both more precise data collection on CG itself and, given its pervasiveness, its inclusion in broader research on economic development, demography, and politics.
+
+### Opportunistic Rebel Strategy in Civil War
+
+With Andres D. Uribe, Political Science Research and Methods (2025). 
+
+Abstract
+What explains the geography and timing of contestation in civil war? We propose a theory of opportunistic rebel tactics, in which insurgent commanders react to temporary shifts in the local balance of power to attack the state. We argue that these opportunistic strikes are enabled by two jointly necessary factors: (1) negative fluctuations in local repressive state capacity and (2) the expectation of civilian compliance with rebel incursions. We evaluate this argument on data from the Colombian civil war. Leveraging exogenous variation in local state capacity caused by landslide-induced road closures, we find that short-term negative shocks to repressive capacity increase the likelihood of insurgent-state clashes. However, this effect does not hold when local communities harbor strongly anti-insurgent attitudes, suggesting that state capacity and civilian behavior jointly shape rebel strategy and that popular opposition can substitute for state strength.
+
+### When Redistribution Backfires Politically: Theory and Evidence from Land Reform in Portugal
+
+With Michael Albertus, Journal of Politics, (2025).
+
+Abstract
+Most scholarship concludes that major redistributive programs garner support for incumbents. But redistribution can backfire when incumbents lose office and have issue ownership without control and when local program saturation is low, generating grievances. This becomes apparent when analyzing not just beneficiaries and payers but also eligible nonbeneficiaries and ineligible nonbeneficiaries. These groups alone can drive shifting political dynamics. We develop a theory incorporating these insights and test it using original data on a major redistributive reform: mid-1970s land reform in Portugal. We utilize a mismatch between the parish-level point system used to expropriate land and potential agricultural productivity to causally identify how land redistribution impacted local political competition. The reform party, the Communists, retained appeal where there was high-level reform but lost vote share in parishes with low-level land reform, mainly among eligible nonbeneficiaries. The political right, once in office, gained through counter-reform, principally by appealing to ineligible nonbeneficiaries.
+
+### Fascist Legacies of Mobilization and Co-Optation: Evidence from Democratic Portugal
+
+With Michael Albertus, Comparative Political Studies, (2024).
+
+Abstract
+Many authoritarian regimes seek to blunt everyday acts of resistance and social mobilization through co-optation rather than adopting riskier tools like outright repression. When these regimes transition to democracy, what are the political imprints of these localized experiences from the authoritarian era? We examine this question in Portugal, where rural corporatist institutions known as Casas do Povo sought to co-opt peasants and dismantle worker mobilization in the fascist era. We find conditional effects for the consequences of rural co- optation in Portugal’s restive southern region, where Casas do Povo took on particular importance given ongoing social mobilization over exploitative labor conditions in the countryside. Absent robust co-optation, social mobilization in the fascist era translated into greater support for the left-wing Portuguese Communist Party after democratization and less support for the right. But the electoral legacies of social mobilization are absent where the fascist regime created early Casas do Povo, facilitating co-optation.
+
+ Noah Schouela,
+
+ Create a website or blog at WordPress.com
+
+- 
+
+ Subscribe
+
+ Subscribed
+
+- 
+ 
+ Noah Schouela 
+
+ Sign me up 
+
+- 
+ 
+ Already have a WordPress.com account? Log in now. 
+
+- 
+ 
+ Privacy 
+
+- 
+
+- 
+ 
+ Noah Schouela 
+
+- 
+
+ Subscribe
+
+ Subscribed
+
+- Sign up
+
+- Log in
+
+- 
+ 
+ Copy shortlink
+
+- 
+ 
+ Report this content 
+
+- 
+ 
+ View post in Reader 
+
+- 
+ Manage subscriptions
+
+- Collapse this bar

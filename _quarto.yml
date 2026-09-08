@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  post-render:
+    - tidy-urls.py
+
+website:
+  title: "Noah Schouela"
+  description: "Political economy of development — democracy, governance, and Latin American politics."
+  site-url: https://noahschouela.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: cv/index.qmd
+        text: CV
+  page-footer:
+    center: "© Noah Schouela"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: true

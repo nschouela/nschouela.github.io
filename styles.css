@@ -1,0 +1,26 @@
+:root { --content-width: 46rem; }
+
+.navbar-brand { font-weight: 600; }
+
+main.content {
+  max-width: var(--content-width);
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
+h2 { margin-top: 2.4rem; }
+h3 { margin-top: 1.9rem; font-size: 1.12rem; }
+
+/* Paper entries */
+.paper { margin-bottom: 2rem; }
+.paper .venue { color: #555; font-size: 0.94rem; margin: 0.15rem 0 0.5rem; }
+.paper .abstract { font-size: 0.95rem; color: #333; }
+.paper .abstract summary {
+  cursor: pointer; color: #2a6496; font-weight: 500; list-style: none;
+}
+.paper .abstract summary::before { content: "▸ "; }
+.paper .abstract[open] summary::before { content: "▾ "; }
+.paper .abstract p { margin-top: 0.6rem; }
+
+.contact a { text-decoration: none; }
