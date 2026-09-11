@@ -1,4 +1,18 @@
-:root { --content-width: 46rem; }
+:root {
+  --content-width: 46rem;
+  /* Carried over from the previous WordPress site (Hever theme) so the
+     migrated site reads as the same site: PT Sans throughout, #1279BE links. */
+  --font-base: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
+               "Helvetica Neue", sans-serif;
+  --link: #1279BE;
+}
+
+body, .navbar, main.content { font-family: var(--font-base); }
+h1, h2, h3, h4, h5, h6, .navbar-brand { font-family: var(--font-base); }
+
+a { color: var(--link); }
+a:hover, a:focus { color: #0e5f96; }
 
 .navbar-brand { font-weight: 600; }
 
@@ -17,10 +31,58 @@ h3 { margin-top: 1.9rem; font-size: 1.12rem; }
 .paper .venue { color: #555; font-size: 0.94rem; margin: 0.15rem 0 0.5rem; }
 .paper .abstract { font-size: 0.95rem; color: #333; }
 .paper .abstract summary {
-  cursor: pointer; color: #2a6496; font-weight: 500; list-style: none;
+  cursor: pointer; color: var(--link); font-weight: 500; list-style: none;
 }
 .paper .abstract summary::before { content: "▸ "; }
 .paper .abstract[open] summary::before { content: "▾ "; }
 .paper .abstract p { margin-top: 0.6rem; }
 
 .contact a { text-decoration: none; }
+
+/* Portrait on the About page */
+.headshot {
+  float: left;
+  width: 260px;
+  border-radius: 20px;
+  border: 1px solid #d0d7de;
+  margin: 0.35rem 1.75rem 1.25rem 0;
+}
+@media (max-width: 640px) {
+  .headshot { float: none; display: block; width: 68%; margin: 0 auto 1.5rem; }
+}
+
+/* Inline CV viewer */
+.cv-embed {
+  margin: 1.25rem 0 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.cv-embed object { display: block; width: 100%; height: 88vh; min-height: 620px; border: 0; }
+@media (max-width: 640px) { .cv-embed object { height: 70vh; min-height: 0; } }
+
+/* On page-layout: full, Quarto puts page-full on <main> (and switches it to
+   grid mode when a column-* child is present). Our 46rem cap would otherwise
+   constrain the grid itself, so full-bleed children would only be full-bleed
+   within 46rem. Both class names covered because which one Quarto emits
+   depends on whether the page has a column-* child. */
+/* On page-layout: full, <main> gets .column-body, which pins it to the outer
+   grid's body-content track: minmax(500px, calc(850px - 3em)) ~= 802px. That
+   TRACK is the cap, so max-width alone does nothing - main has to be moved to
+   the screen track. main is itself a page-columns grid, so its ordinary
+   children stay at readable width and only .column-screen-inset goes wide. */
+main.content.page-full {
+  grid-column: screen-start / screen-end;
+  max-width: none;
+}
+
+/* First heading sits right below the page title */
+main.content > h2:first-of-type { margin-top: 0.6rem; }
+
+/* On the full-width CV page, main's ordinary children still sit in the narrow
+   body-content track, so the title floated ~250px right of the PDF's edge.
+   Put them on the same inset column as the viewer. */
+main.content.page-full > header,
+main.content.page-full > p {
+  grid-column: screen-start-inset / screen-end-inset;
+}

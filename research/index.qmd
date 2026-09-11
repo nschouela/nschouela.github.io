@@ -1,11 +1,11 @@
 ---
-title: "Research"
+pagetitle: "Research — Noah Schouela"
 ---
 
 ## Journal Articles
 
 ::: {.paper}
-### Criminal Governance in Latin America: Prevalence and Correlates
+### [Criminal Governance in Latin America: Prevalence and Correlates](https://doi.org/10.1017/S1537592725101849)
 
 ::: {.venue}
 With Andres D. Uribe, Benjamin Lessing, and Elayne Stecher. *Perspectives on Politics* (2025).
@@ -18,7 +18,7 @@ With Andres D. Uribe, Benjamin Lessing, and Elayne Stecher. *Perspectives on Pol
 :::
 
 ::: {.paper}
-### Opportunistic Rebel Strategy in Civil War
+### [Opportunistic Rebel Strategy in Civil War](https://doi.org/10.1017/psrm.2025.8)
 
 ::: {.venue}
 With Andres D. Uribe. *Political Science Research and Methods* (2025).
@@ -31,7 +31,7 @@ With Andres D. Uribe. *Political Science Research and Methods* (2025).
 :::
 
 ::: {.paper}
-### When Redistribution Backfires Politically: Theory and Evidence from Land Reform in Portugal
+### [When Redistribution Backfires Politically: Theory and Evidence from Land Reform in Portugal](https://doi.org/10.1086/732944)
 
 ::: {.venue}
 With Michael Albertus. *Journal of Politics* (2025).
@@ -44,7 +44,7 @@ With Michael Albertus. *Journal of Politics* (2025).
 :::
 
 ::: {.paper}
-### Fascist Legacies of Mobilization and Co-Optation: Evidence from Democratic Portugal
+### [Fascist Legacies of Mobilization and Co-Optation: Evidence from Democratic Portugal](https://doi.org/10.1177/00104140231204243)
 
 ::: {.venue}
 With Michael Albertus. *Comparative Political Studies* (2024).
@@ -63,7 +63,7 @@ With Michael Albertus. *Comparative Political Studies* (2024).
 My dissertation explores how decentralization and democratization shape the local politics of Latin American cities. It consists of three papers that investigate political barriers to democratic representation and equitable governance for urban residents segregated by socioeconomic class:
 
 ::: {.paper}
-### Fragmented Latin American Urban Democracy (FLAUD): Measuring and Theorizing Regionalism in Latin America’s Metropolises
+### [Fragmented Latin American Urban Democracy (FLAUD): Measuring and Theorizing Regionalism in Latin America’s Metropolises](https://ssrn.com/abstract=5225124)
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -72,7 +72,7 @@ My dissertation explores how decentralization and democratization shape the loca
 :::
 
 ::: {.paper}
-### Class-Based Voting and Local Election Competition in Fragmented Latin American Cities
+### [Class-Based Voting and Local Election Competition in Fragmented Latin American Cities](https://ssrn.com/abstract=5225251)
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -81,10 +81,20 @@ My dissertation explores how decentralization and democratization shape the loca
 :::
 
 ::: {.paper}
-### Nested Urban Democracy: Balancing Partisan and Candidate Information in Lima, Peru
+### [Nested Urban Democracy: Balancing Partisan and Candidate Information in Lima, Peru](https://ssrn.com/abstract=5225253)
 
 <details class="abstract">
 <summary>Abstract</summary>
 <p>The tendency for parties to perform similarly in higher- and lower-level elections—i.e., high party localization—can generate nested advantages for candidates affiliated with dominant up-ballot parties in local districts. While voters may use party labels as a heuristic to guide their vote choice in local elections because they hold genuine partisan preferences, party localization may also materialize where voters lack alternative information about local candidates. Under such conditions, candidates in lower-level elections affiliated with dominant parties may ride party coattails to victory even if voters know little about them; large, nested advantages may even crowd out the election of stronger candidates about whom voters hold apparent preferences. This paper turns to municipal elections in Lima, Peru as an instructive case where robust party localization exists between provincial and district elections even though parties are fragile, personalistic, and transient. Across two decades of municipal elections, I find that provincial voting patterns, which are dynamically class-based and candidate-centric, constitute strong baseline predictions for party performance in Lima’s 42 autonomous districts. Voters deviate from this baseline when they have independent, reliable information on the quality of mayoral candidates in the form of past political experience. Yet district candidates affiliated with especially dominant provincial parties often ride their coattails to victory, even if they dramatically underperform their provincial counterparts. Popular candidates that overperform their provincial coattails are less likely to get elected at the district level when their competitors enter the race with large, often unjustifiable, electoral advantages associated with voters casting straight-ticket ballots.</p>
 </details>
+:::
+
+## Other Working Papers
+
+::: {.paper}
+### Parochial Infrastructure Provision in Fragmented Latin American Cities
+
+::: {.venue}
+Prepared for The Politics of Urban Infrastructure panel, Bloomberg Center for Cities Research Conference, Harvard University (November 2025).
+:::
 :::

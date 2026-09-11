@@ -1,7 +1,14 @@
 ---
-title: "CV"
+pagetitle: "CV — Noah Schouela"
+page-layout: full
 ---
 
-[Download CV (PDF)](/assets/schouela_cv_2026_09_11.pdf)
+[Download CV (PDF)](../assets/schouela_cv_2026_09_11.pdf)
+
+::: {.cv-embed .column-screen-inset}
+<object data="../assets/schouela_cv_2026_09_11.pdf" type="application/pdf">
+<p>Your browser will not display the CV inline. <a href="../assets/schouela_cv_2026_09_11.pdf">Download it as a PDF</a> instead.</p>
+</object>
+:::
 
 *Last updated 11 September 2026.*
