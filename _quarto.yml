@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  # Quarto renders .md files too, which would publish CLAUDE.md as
+  # /CLAUDE.html and list it in the sitemap. Restrict to .qmd sources.
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
   post-render:
     - tidy-urls.py
 
