@@ -5,3 +5,6 @@
 *.Rproj
 
 /.quarto/
+
+# Private local notes - never commit (this repo is public)
+_private/
